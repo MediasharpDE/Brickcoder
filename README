@@ -1,0 +1,21 @@
+Brickcoder is for Programming your Lego (c) Mindstorms (c) NXT using NXC (not eXactly C). It is based on C with Gtk+ (GIMP Toolkit). 
+
+Log:
+
+ * 0.4.2 - Improved Compiling, more objective using headerfiles, better menus (added icons).
+
+ * 0.4.1 - First release on github
+
+Planned features:
+
+ * Code Highlighting
+ 
+ * using GtkSourceView
+
+ * Projects
+
+ * NXT-Sound Creator
+
+ * Tabbed Editor
+
+I'm working on packages for DEB and RPM. For now you have to compile using ./configure, make and make install. Check-install is possible.
